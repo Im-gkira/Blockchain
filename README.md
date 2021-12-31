@@ -1,5 +1,4 @@
-# Crud App
-
+# Blockchain
 **Module 1**</br>
 Implementaion of a prototype of simple blockchain
 
